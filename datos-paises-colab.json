@@ -3,13 +3,13 @@
       {
          "id":"Algeria",
          "name":"Algeria",
-         "n":10,
+         "n":1,
          "grp":1
       },
       {
          "id":"Australia",
          "name":"Australia",
-         "n":10,
+         "n":1,
          "grp":1
       },
       {
@@ -736,4 +736,5 @@
       }
    ]
 }
+
 
